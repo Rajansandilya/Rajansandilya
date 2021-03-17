@@ -1,4 +1,4 @@
-<h1align="center"><b>Hi there, I am Rajan Sandilya 👋</b></h1>
+<h1 align="center"><b>Hi there, I am Rajan Sandilya 👋</b></h1>
 
 - 🔭 I’m currently working on brushing on my<strong> Data Structure</strong> Skills.</a>
 - 💬 Ask me about <strong>C++, Data Structures and Algorithms. </strong>
